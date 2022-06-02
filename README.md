@@ -7,7 +7,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: 610203816@qq.com
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I like read books on existentialism
+- ⚡ Fun fact: I like reading books on existentialism
 <!--
 **guhang987/guhang987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
