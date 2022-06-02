@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](./github-header-image.png.png)
+![Header](./github-header-image.png)
 - 🔭 I’m currently working on Northwestern Polytechnical University
 - 🌱 I’m currently learning Redis, Federated Learning
 <!-- - 👯 I’m looking to collaborate on software develope enge -->
