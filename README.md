@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Redis, Federated Learning
 <!-- - 👯 I’m looking to collaborate on software develope enge -->
 <!-- - 🤔 I’m looking for help with ... --> 
-- 💬 Ask me about anythins
+- 💬 Ask me about anything
 - 📫 How to reach me: 610203816@qq.com
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I like read books on existentialism
